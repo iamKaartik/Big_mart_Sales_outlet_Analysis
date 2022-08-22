@@ -2,6 +2,8 @@
 
 In this brief project, I have downloaded a very popular dataset – Big Mart Sales from Kaggle and have tried to fit an appropriate Machine Learning model that can provide me with an estimated price given several features about the item.
 
+The model with the best R2 fit and the least Mean Squared Error is picked to be the one that will be applied to the dataset. We then tune the hyperparameters a little and come up with a working application ready model.
+
 # Objective
 
 The input dataset is an Excel file with information about sales of 8523 items sold at Big Mart. 
