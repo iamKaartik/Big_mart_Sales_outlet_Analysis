@@ -19,5 +19,6 @@ The steps we will go through are:
 5. Model predictions 
 6. Visualization of results
 
-For accurate prediction of the Outlet sales price of a given item, we have used certain state-of-the-art regression algorithms like – Support Vector Machines, Linear Regression, Random 
-Forest Regression and XGBoost Regression. 
+For accurate prediction of the Outlet sales price of a given item, we have used certain state-of-the-art regression algorithms like – Support Vector Machines, Linear Regression, Random Forest Regression and XGBoost Regression. 
+
+Result - We see that the XGBoost Regressor performed best on our dataset, with the lowest Mean Squared error of around 800. Not surprisingly, it had the highest R2 score too, indicating that it fit our model the best. 
